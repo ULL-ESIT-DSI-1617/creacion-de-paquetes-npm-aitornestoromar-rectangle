@@ -1,2 +1,2 @@
-let rectangle = require('./lib/rectangle.js');
+module.export = require('./lib/rectangle.js');
 
