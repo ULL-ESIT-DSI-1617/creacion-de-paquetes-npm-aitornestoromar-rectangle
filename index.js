@@ -1,2 +1,2 @@
-module.export = require('./lib/rectangle.js');
+module.exports = require('./lib/rectangle.js');
 
