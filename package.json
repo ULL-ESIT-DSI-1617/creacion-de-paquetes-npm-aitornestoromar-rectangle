@@ -1,10 +1,11 @@
 {
-  "name": "ull-shape-rectangle-aitor-nestor-omar-35l2v3-1",
+  "name": "@aitor-nestor-omar/ull-shape-rectangle-aitor-nestor-omar-35l2v3-1",
   "version": "1.0.6",
   "description": "",
   "main": "rectangle.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "./node_modules/mocha/bin/mocha --require should",
+    "doc": "documentation build ./lib/rectangle.js -f html -o docs"
   },
   "repository": {
     "type": "git",
